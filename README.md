@@ -79,4 +79,5 @@ RegisterNumber: 24900019
 <img width="1470" alt="Screenshot 2024-12-07 at 9 24 35 PM" src="https://github.com/user-attachments/assets/eedb3e38-ba01-4865-acc9-25573f1c262d">
 
 **RESULTS**
+
 sucessfully implemented  SISO Shift Register using verilog and validating their functionality using their functional tables
