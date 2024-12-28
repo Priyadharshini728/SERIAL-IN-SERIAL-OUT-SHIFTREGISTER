@@ -1,5 +1,5 @@
-# SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-
+## EX-10 SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
+## DATE: 27-11-2024
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
@@ -63,15 +63,15 @@ q[3] <= q[2];
 end
 
 endmodule
-
+```
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by: V.Patrick Alex Emmanuel
+## Developed by: PRIYADHARSHINI P
 
-RegisterNumber: 24900019
+## RegisterNumber: 24901256
 
 */
-```
+
 **RTL LOGIC FOR SISO Shift Register**
 <img width="1470" alt="Screenshot 2024-12-07 at 9 22 44 PM" src="https://github.com/user-attachments/assets/d6c8060c-2710-4d3d-83ee-68a158aace50">
 
